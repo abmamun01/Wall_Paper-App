@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60889404232",
+    "project_id": "pubg-wallpaper-a66d9",
+    "storage_bucket": "pubg-wallpaper-a66d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60889404232:android:e617ed6b8bf05eaf74d97d",
+        "android_client_info": {
+          "package_name": "com.mamunsproject.awesome_pubg_wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60889404232-hmsfupnp8vi2gt4u3u7f84oipcmr334h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcCtaRXbMQ1Gq19MdS7HsbjROaXEhcnqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60889404232-hmsfupnp8vi2gt4u3u7f84oipcmr334h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
